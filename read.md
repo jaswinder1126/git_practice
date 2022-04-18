@@ -1,3 +1,8 @@
+## OVERVIEW
+* After delivering and contributing a lot in tech world, microsoft wants to jump into the entertainment industry. In order to successfully lanch their first feature film, the comapny decided to analyse data. this data belongs to IMDB and contain all necessary information regarding movie credentials. The project aims to analyse the data after cleaning and sorting. and then to make specific recommendation.
+## METHODS
+* to perform this analyzation, we used data from IMDB.
+* open source librarries are used such as pandas, matplot lib, sns to demonstrate this data and resuts.
 ## Step-by-step guide to the code for the project
 ## importing
 * importing libraries
