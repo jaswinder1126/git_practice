@@ -17,3 +17,8 @@
 * Christopher Nolan is a good choicre of director.
 * it is clear that genre of the movie shoud be action revolving arround a storyline based on science fiction.
 * To attain maximum order count, studio should aim for the rating arround 8 and 8.5.
+## recomendations
+* director should be CHRISTOPHER NOLAN
+* writer should be STEVEN SPILBERG
+* runtime should be 100 to 110 minutes
+* genre should be ACTION/SCI-FI/ADVENTURE
